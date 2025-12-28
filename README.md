@@ -1,4 +1,4 @@
-# Cisco Dynamic Routing (RIP) – WAN Jakarta–Bogor Network
+# Cisco Dynamic Routing (RIP) – WAN
 
 ## Project Description
 This project is a simulation of **dynamic routing using RIP (Routing Information Protocol)** in a **WAN-based network** connecting two branch offices (**Jakarta and Bogor**) using **Cisco Packet Tracer**.
